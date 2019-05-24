@@ -1,0 +1,19 @@
+.login-form
+{
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+  height: 100%;
+}
+
+input.error {
+  border: 1px solid red;
+}
+
+.errorMessage
+{
+  color: red;
+  font-size: 0.75em;
+  display: relative;
+}
