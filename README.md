@@ -1,8 +1,8 @@
 ## Dependencies.
 
 ## Install.
-#npm i reactstrap.
+npm i reactstrap.
 
-#npm i react-social-login-buttons.
+npm i react-social-login-buttons.
 
-#npm i boostrap.
+npm i boostrap.
